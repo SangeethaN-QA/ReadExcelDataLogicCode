@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2079" started-at="2021-05-08T14:40:03Z" finished-at="2021-05-08T14:40:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2079" started-at="2021-05-08T14:40:03Z" finished-at="2021-05-08T14:40:05Z">
+      <class name="com.testmethods.ReadExcelMethodsClass">
+        <test-method status="PASS" signature="Test_A()[pri:0, instance:com.testmethods.ReadExcelMethodsClass@482f8f11]" name="Test_A" is-config="true" duration-ms="1861" started-at="2021-05-08T14:40:03Z" finished-at="2021-05-08T14:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_A -->
+        <test-method status="PASS" signature="Test_B()[pri:0, instance:com.testmethods.ReadExcelMethodsClass@482f8f11]" name="Test_B" duration-ms="107" started-at="2021-05-08T14:40:05Z" finished-at="2021-05-08T14:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_B -->
+        <test-method status="PASS" signature="Test_C()[pri:0, instance:com.testmethods.ReadExcelMethodsClass@482f8f11]" name="Test_C" is-config="true" duration-ms="98" started-at="2021-05-08T14:40:05Z" finished-at="2021-05-08T14:40:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_C -->
+      </class> <!-- com.testmethods.ReadExcelMethodsClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
